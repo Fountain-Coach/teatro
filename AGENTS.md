@@ -1,6 +1,6 @@
 # Repository Guidelines
 
-This repository contains the documentation for **Teatro View Engine**, a declarative Swift 6 framework for rendering text, music and screenplay artifacts. The comprehensive docs now live in the `Docs/` directory, one folder per major component.
+This repository contains the documentation for **Teatro View Engine**, a declarative Swift 6 framework for rendering text, music and screenplay artifacts. The comprehensive docs now live in the `Docs/` directory, one folder per major component. A new `Docs/ImplementationPlan` folder tracks upcoming features and should be updated as development progresses.
 
 ## Contributing
 - Keep new code modular and follow the structures laid out in `Docs/` and `README.md`.

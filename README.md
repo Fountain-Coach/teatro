@@ -13,6 +13,7 @@ This repository contains the specification for Teatro, a modular Swift 6 view en
 - [MIDI 2.0 DSL](Docs/MIDI20DSL/README.md)
 - [Fountain Screenplay Engine](Docs/FountainScreenplayEngine/README.md)
 - [View Implementation and Testing Plan](Docs/ViewImplementationPlan/README.md)
+- [Implementation Roadmap](Docs/ImplementationPlan/README.md)
 - [Summary](Docs/Summary/README.md)
 - [Addendum: Apple Platform Compatibility](Docs/Addendum/README.md)
 

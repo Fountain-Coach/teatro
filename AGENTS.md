@@ -6,7 +6,8 @@ This repository contains the documentation for **Teatro View Engine**, a declara
 - Keep new code modular and follow the structures laid out in `README.md`.
 - Prefer Swift 6 and standard library constructs.
 - When adding files, follow the suggested directory structure from the README (e.g. `Sources/`, `Tests/`, `CLI/`).
-- Include tests under `Tests/` once implementation begins. For now this repository only contains documentation.
+- Include tests under `Tests/` once implementation begins. The repository now
+  contains only documentation and an empty directory layout.
 - Run `swift build` and `swift test` if a `Package.swift` manifest is present.
 
 ## Repo Tasks for Codex
